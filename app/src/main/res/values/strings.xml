@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Great Cairo Tour Guide</string>
+    <string name="category_sights">Sights</string>
+    <string name="category_info">Info</string>
+    <string name="category_shops">Shops</string>
+    <string name="category_food">Food</string>
+
+    <string name="food_Ginza_name">Ginza Japanese \&amp; Asian Restaurant</string>
+    <string name="food_Ginza_description">Sushi restaurant. Choose the food on the screen in your
+        table and recieve your order via conveyor belt.</string>
+    <string name="food_Ginza_address">22 Abou Dawoud Al Zaheri, Al Manteqah as Sadesah, Nasr City, Cairo Governorate</string>
+    <string name="food_Ginza_phone">02 26706263</string>
+    <string name="food_Ginza_schedule">Everyday from 12pm - 2am</string>
+    <string name="food_price_two">$$</string>
+
+    <string name="food_zooba_name">Zööba</string>
+    <string name="food_zooba_description">At Zooba, we turn familiar Egyptian street food on its head (and dress it up a little, too). The Zooba brand is a celebration of Egyptian street food culture. We believe that Egyptian street food rivals the best in the world and that through Zooba we can proudly share Egypt’s utterly unique street dishes.</string>
+    <string name="food_zooba_address">2nd Floor، 114 26 July St, Al Gabalayah, 11211</string>
+    <string name="food_zooba_phone">+20 16082</string>
+    <string name="food_zooba_schedule">Everyday from 8am - 1am</string>
+
+
+    <string name="food_bab_hadid_name">BAB EL HADID</string>
+    <string name="food_bab_hadid_description">Restaurant specialised in Okonomiyaki, a Japanese
+        savoury pancake containing a variety of ingredients.</string>
+    <string name="food_bab_hadid_address">25 Street No. 9, Maadi, Cairo, Cairo Governorate 11432</string>
+    <string name="food_bab_hadid_phone"> 0122 699 0007</string>
+    <string name="food_bab_hadid_schedule">Everyday from 9am - 3am</string>
+
+
+    <string name="info_internet_name">Internet</string>
+    <string name="info_internet_description">Rent a pocket WIFI to have internet access everywhere.
+        It is very convenient when travelling since most of the hotels have limited internet access.
+        It works even in the subway!</string>
+
+    <string name="info_convenience_stores_name">Convenience stores</string>
+    <string name="info_convenience_stores_description">Did you forget your toothbrush? Are you jet-lagged
+        and need a coffee fix at 4am?
+        \n\nYou need a Carrefoure, a convenience store that is open 24/7. Here you will find from
+        food and drinks, to first necessity articles.
+        \n\nSome known konibini chains are:
+        \n- Lawson
+        \n- 7-Eleven
+        \n- FamilyMart
+        \n- Daily</string>
+    <string name="info_transport_name">Metro Train Card</string>
+    <string name="info_transport_description">The Metro card is a prepaid smart card that
+        allows you to use most public transport (metro, trains, buses, monorail) in Cairo.
+        The card is debited for every trip or purchase you make when you touch the card
+        to the reader.</string>
+
+    <string name="shop_maadi_city_center_name">Maadi City Center</string>
+    <string name="shop_maadi_city_center_description">Shopping mall in Egypt</string>
+    <string name="shop_maadi_city_center_address"> الى الطريق الدائرى، El-Basatin Sharkeya, El-Basatin, Cairo Governorate 11432</string>
+    <string name="shop_maadi_city_center_phone">0109 258 3677</string>
+    <string name="shop_maadi_city_center_schedule">Everyday from 10am - 10pm</string>
+
+
+    <string name="shop_genena_mall_name">Genena Mall</string>
+    <string name="shop_genena_mall_description">Shopping mall in Egypt</string>
+    <string name="shop_genena_mall_address">9 El-Batrawy St, off، Abbas El-Akkad, Nasr City, Cairo Governorate 11432</string>
+    <string name="shop_genena_mall_phone">02 20820621</string>
+    <string name="shop_genena_mall_schedule">Everyday from 11am - 12am</string>
+
+
+    <string name="shop_diwan_bookstore_name">Diwan Bookstore</string>
+    <string name="shop_diwan_bookstore_description">Book store in Egypt.</string>
+    <string name="shop_diwan_bookstore_address">1, Road 254 (at the intersection with Road 213), Maadi Degla, 11510</string>
+    <string name="shop_diwan_bookstore_phone">0109 888 7326</string>
+    <string name="shop_diwan_bookstore_schedule">Everyday from 9am - 11:30pm</string>
+
+    <string name="sight_giza_pyramids">Giza Pyramids</string>
+    <string name="sight_giza_pyramids_description">The Egyptian pyramids are ancient pyramid-shaped masonry structures located in Egypt. As of November 2008, sources cite either 118 or 138 as the number of identified Egyptian pyramids. Most were built as tombs for the country\'s pharaohs and their consorts during the Old and Middle Kingdom periods</string>
+    <string name="sight_giza_pyramids_address">Al Haram, Nazlet El-Semman, Al Haram, Giza Governorate</string>
+    <string name="sight_giza_pyramids_phone">Not Available</string>
+    <string name="sight_giza_pyramids_schedule">Everyday from 8am – 5pm</string>
+    <string name="sight_giza_pyramids_price">It\'s 80 egyptian pounds for the entrance fee. 200 egyptian pounds if you want to go inside the great pyramid and additional fees for going inside the other pyramids.</string>
+
+    <string name="sight_egyptian_museum_name">Egyptian Museum</string>
+    <string name="sight_egyptian_museum_description">The Museum of Egyptian Antiquities, known commonly as the Egyptian Museum or Museum of Cairo, in Cairo, Egypt, is home to an extensive collection of ancient Egyptian antiquities. It has 120,000 items, with a representative amount on display, the remainder in storerooms.</string>
+    <string name="sight_egyptian_museum_address">15 Meret Basha, Ismailia, Qasr an Nile, Cairo Governorate</string>
+    <string name="sight_egyptian_museum_phone">02 25794596</string>
+    <string name="sight_egyptian_museum_schedule">Everyday from 9am – 5pm</string>
+    <string name="sight_egyptian_museum_price">160 egyptian pounds</string>
+
+    <string name="sight_cairo_citadel_name">Cairo Citadel</string>
+    <string name="sight_cairo_citadel_description">The Saladin Citadel of Cairo is a medieval Islamic fortification in Cairo, Egypt. The location, on Mokattam hill near the center of Cairo, was once famous for its fresh breeze and grand views of the city. It is now a preserved historic site, with mosques and museums.</string>
+    <string name="sight_cairo_citadel_address">Al Abageyah, Qesm Al Khalifah، Cairo Governorate</string>
+    <string name="sight_cairo_citadel_phone">02 25121735</string>
+    <string name="sight_cairo_citadel_schedule">Everyday from 8am – 4pm</string>
+    <string name="sight_cairo_citadel_price">110 egyptian pounds</string>
+
+</resources>
